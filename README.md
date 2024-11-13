@@ -1,4 +1,3 @@
-Here's your updated profile with your contact information:
 
 - 👋 Hi, I’m @Chandanayeragadindla
 - 👀 I’m interested in **coding, data structures, algorithms, and full-stack development**
